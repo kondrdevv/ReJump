@@ -15,28 +15,28 @@
   * 🟢 *Normal* (Green) — Your classic, reliable foothold.
   * 🔵 *Moving* (Blue) — Constantly shifting to test your timing.
   * 🔴 *Spring* (Red) — Launches you high into the sky.
-  * 🟤 *Breaking* (Brown) — Crumbles instantly when stepped on[cite: 1].
+  * 🟤 *Breaking* (Brown) — Crumbles instantly when stepped on.
 * 🛍️ **In-Game Shop & Customization:** Earn coins during runs to unlock unique character skins (Golden, Ninja, Pink) or purchase powerful starting bonuses[cite: 1].
 * ⚡ **Power-ups:** Pick them up on platforms or equip them before you jump:
-  * 🚀 *Rocket* — Gives you a massive upward speed boost[cite: 1].
-  * 🛡️ *Shield* — Saves you from falling into the abyss once[cite: 1].
-  * ⚡ *Super-Spring* — Supercharges your red spring jumps[cite: 1].
-* 📱 **Fully Responsive:** Smooth layout transitions that look amazing on desktop displays as well as smartphones[cite: 1].
-* 💾 **Persistent Progress:** Your high score, total coins, and unlocked skins are safely saved via `localStorage`[cite: 1].
+  * 🚀 *Rocket* — Gives you a massive upward speed boost.
+  * 🛡️ *Shield* — Saves you from falling into the abyss once.
+  * ⚡ *Super-Spring* — Supercharges your red spring jumps.
+* 📱 **Fully Responsive:** Smooth layout transitions that look amazing on desktop displays as well as smartphones.
+* 💾 **Persistent Progress:** Your high score, total coins, and unlocked skins are safely saved via `localStorage`.
 
 ---
 
 ## 🕹️ Controls
 
 ### On Desktop (Keyboard):
-* `ArrowLeft` / `A` — Move Left[cite: 1]
-* `ArrowRight` / `D` — Move Right[cite: 1]
-* `Space` / `Enter` — Quick Start / Restart Game[cite: 1]
-* `Escape` — Exit shop and return to menu[cite: 1]
+* `ArrowLeft` / `A` — Move Left
+* `ArrowRight` / `D` — Move Right
+* `Space` / `Enter` — Quick Start / Restart Game
+* `Escape` — Exit shop and return to menu
 
 ### On Mobile / Tablets (Touch):
-* Tap or hold the **left side of the screen** to move left[cite: 1].
-* Tap or hold the **right side of the screen** to move right[cite: 1].
+* Tap or hold the **left side of the screen** to move left.
+* Tap or hold the **right side of the screen** to move right.
 
 🤝 Credits
-Proudly developed by Re:Phone Games 📱[cite: 1].
+Proudly developed by Re:Phone Games.
