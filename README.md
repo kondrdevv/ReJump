@@ -38,5 +38,5 @@
 * Tap or hold the **left side of the screen** to move left.
 * Tap or hold the **right side of the screen** to move right.
 
-🤝 Credits
+## 🤝 Credits
 Proudly developed by Re:Phone Games.
